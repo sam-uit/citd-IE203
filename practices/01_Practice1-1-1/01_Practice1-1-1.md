@@ -1,9 +1,13 @@
-# 01_Practice1-1-1
+# IE203 - 01_Practice1-1-1
 
-> Xác định quy trình và các actor của công ty xây dựng.
+## Yêu Cầu
+
+- Xác định quy trình và các actor của công ty xây dựng.
 
 Nguồn: [01_Practice1-1-1](01_Practice1-1-1.pdf)
-## Equipment Rental Process
+
+## Ngữ Cảnh
+### Equipment Rental Process
 
 BuildIT is a construction company specialized in public works (roads, bridges, pipelines, tunnels, railroads, etc.). Within BuildIT, it often happens that engineers working at a construction site (called site engineers) need a piece of equipment, such as a truck, an excavator, a bulldozer, a water pump, etc.
 
@@ -23,7 +27,7 @@ When the rental period expires, the supplier comes to pick up the equipment. Som
 
 A few days after the equipment is picked up, the equipment’s supplier sends an invoice to the clerk by e-mail. At this point, the clerk asks the site engineer to confirm that the equipment was indeed rented for the period indicated in the invoice. The clerk also checks if the rental prices indicated in the invoice are in accordance with those in the PO. After these checks, the clerk forwards the invoice to the financial department and the finance department eventually pays the invoice.
 
-## Questions
+### Questions
 
 1. What type of process is the above one: order-to-cash, procure-to-pay or issue-to-resolution?
 2. Who are the actors in this process? Who is the customer?
@@ -33,3 +37,11 @@ A few days after the equipment is picked up, the equipment’s supplier sends an
 6. Taking the perspective of the customer, what performance measures can be attached to this process?
 7. What potential issues do you foresee this process might have? What information would you need to collect in order to analyze these issues?
 8. What possible changes do you think could be made to this process in order to address the above issues? Which performance measure would these changes improve?
+
+## Bài Làm
+
+Yêu cầu ở trên là tương đương 2 câu hỏi trong phần Question của ngữ cảnh:
+
+- What type of process is the above one: order-to-cash, procure-to-pay or issue-to-resolution?
+- Who are the actors in this process?
+
