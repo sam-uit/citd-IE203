@@ -7,6 +7,8 @@ year: "2026"
 
 # IE203 - 01_Practice1-1-1
 
+[TOC]
+
 ## Yêu Cầu
 
 - Xác định quy trình và các actor của công ty xây dựng.
