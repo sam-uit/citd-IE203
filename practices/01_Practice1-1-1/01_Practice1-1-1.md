@@ -1,3 +1,10 @@
+---
+title: IE203 - 01_Practice1-1-1
+subject: IE203.F34.LT.CNTT
+author: 25410291
+year: "2026"
+---
+
 # IE203 - 01_Practice1-1-1
 
 ## Yêu Cầu
