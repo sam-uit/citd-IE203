@@ -23,5 +23,6 @@
 - https://github.com/sartography/SpiffWorkflow
 - https://bpmn.io/toolkit/bpmn-js/
 - https://github.com/bpmn-io/bpmn-to-image
+- https://www.bpmn-sketch-miner.ai/
 - https://kroki.io/
 - https://academy.camunda.com/path/bpmn-lp
