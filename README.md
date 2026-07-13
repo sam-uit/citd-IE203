@@ -18,6 +18,10 @@ Quan Trọng:
 | Lớp                             | IE203.F34.LT.CNTT                      |
 | Email giảng viên                | trunghlh@uit.edu.vn                    |
 
+## Tổng Quan
+
+- [syllabus](syllabus.md)
+
 ## Bài Giảng
 
 
