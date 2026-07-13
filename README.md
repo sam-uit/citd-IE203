@@ -20,6 +20,8 @@
 
 - https://plantuml.com/activity-diagram-beta
 - https://github.com/Ericsson/PlantUML-Interactive-Editor
+- https://github.com/sartography/SpiffWorkflow
 - https://bpmn.io/toolkit/bpmn-js/
+- https://github.com/bpmn-io/bpmn-to-image
 - https://kroki.io/
 - https://academy.camunda.com/path/bpmn-lp
