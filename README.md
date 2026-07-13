@@ -24,6 +24,14 @@ Quan Trọng:
 
 ## Bài Giảng
 
+1. [ch01](lectures/IE203-chap01.pdf)
+2. [ch02](lectures/IE203-chap02.pdf)
+3. [ch03](lectures/IE203-chap03.pdf)
+4. [ch04](lectures/IE203-chap04.pdf)
+5. [ch05](lectures/IE203-chap05.pdf)
+6. [ch06](lectures/IE203-chap06.pdf)
+7. [ch07](lectures/IE203-chap07.pdf)
+8. [ch08](lectures/IE203-chap08.pdf)
 
 ## Bài Tập
 
