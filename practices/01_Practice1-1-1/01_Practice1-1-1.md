@@ -2,6 +2,7 @@
 
 > Xác định quy trình và các actor của công ty xây dựng.
 
+Nguồn: [01_Practice1-1-1](01_Practice1-1-1.pdf)
 ## Equipment Rental Process
 
 BuildIT is a construction company specialized in public works (roads, bridges, pipelines, tunnels, railroads, etc.). Within BuildIT, it often happens that engineers working at a construction site (called site engineers) need a piece of equipment, such as a truck, an excavator, a bulldozer, a water pump, etc.
