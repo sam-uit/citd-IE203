@@ -19,5 +19,6 @@
 ## Tools/Resources
 
 - https://plantuml.com/activity-diagram-beta
+- https://github.com/Ericsson/PlantUML-Interactive-Editor
 - https://bpmn.io/toolkit/bpmn-js/
 - https://academy.camunda.com/path/bpmn-lp
