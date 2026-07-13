@@ -72,9 +72,9 @@ Quy trình thuê thiết bị của công ty xây dựng BuildIT thuộc loại 
 
 Các tác nhân tham gia vào quy trình trên bao gồm 6 tác nhân như sau:
 
-1. Site Engineer: là một cá nhân cụ thể, trực tiếp phát sinh nhu cầu, sử dụng dịch vụ/thiết bị, trực tiếp gửi yêu cầu, là điểm đầu của quy trình.
-2. Clerk: là một cá nhân cụ thể, tiếp nhận yêu cầu và thực hiện các bước trung gian như một điểm giao tiếp giữa các tác nhân, cũng như đảm bảo quy trình diễn ra chính xác về thời gian, và chi phí.
+1. **Site Engineer**: là một cá nhân cụ thể, trực tiếp phát sinh nhu cầu, sử dụng dịch vụ/thiết bị, trực tiếp gửi yêu cầu, là điểm đầu của quy trình.
+2. **Clerk**: là một cá nhân cụ thể, tiếp nhận yêu cầu và thực hiện các bước trung gian như một điểm giao tiếp giữa các tác nhân, cũng như đảm bảo quy trình diễn ra chính xác về thời gian, và chi phí.
 3. Work Engineer: là một cá nhân cụ thể, có thẩm quyền phê duyệt hoặc từ chối yêu cầu thuê thiết bị, là một tác nhân quan trọng có thể ảnh hưởng/thay đổi chi tiết của quy trình.
-4. Supplier: là một nhà cung cấp cụ thể, là một đối tác bên ngoài (external actor); chịu trách nhiệm cung cấp thiết bị, trả lời các câu hỏi/truy vấn về tình trạng, chi phí, v.v. liên quan đến thiết bị.
-5. Financial Information System - FIS: là một hệ thống thông tin, không phải là một cá nhân cụ thể; cung cấp khả năng lưu trữ thông tin, xuất đơn hàng (PO) dựa trên các thông tin mà Clerk nhập vào.
-6. Financial Department - FD: là một phòng ban, chịu trách nhiệm cuối của quy trình; nhận hóa đơn đã được xác nhận từ Clerk và thanh toán cho nhà cung cấp. Hoàn thành quy trình.
+4. **Supplier**: là một nhà cung cấp cụ thể, là một đối tác bên ngoài (external actor); chịu trách nhiệm cung cấp thiết bị, trả lời các câu hỏi/truy vấn về tình trạng, chi phí, v.v. liên quan đến thiết bị.
+5. **Financial Information System** - FIS: là một hệ thống thông tin, không phải là một cá nhân cụ thể; cung cấp khả năng lưu trữ thông tin, xuất đơn hàng (PO) dựa trên các thông tin mà Clerk nhập vào.
+6. **Financial Department** - FD: là một phòng ban, chịu trách nhiệm cuối của quy trình; nhận hóa đơn đã được xác nhận từ Clerk và thanh toán cho nhà cung cấp. Hoàn thành quy trình.
