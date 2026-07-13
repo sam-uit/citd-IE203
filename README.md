@@ -10,8 +10,8 @@
 
 ### Bài Tập 01
 
-- [01_Practice1-1-1](practices/01_Practice1-1-1/01_Practice1-1-1.md)
+- [ ] [01_Practice1-1-1](practices/01_Practice1-1-1/01_Practice1-1-1.md)
 
 ### Bài Tập Trên Lớp 01
 
-
+- [ ] [ex-01-01](exercises/ex-01-01.md)
