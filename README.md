@@ -7,6 +7,17 @@ Quan Trọng:
 
 - Form đăng ký nhóm: [https://docs.google.com/forms/d/e/1FAIpQLSfsnDTImmSV0CO9oLst847sZe1Y44EPN5t4psxhO1h37Z3gUg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfsnDTImmSV0CO9oLst847sZe1Y44EPN5t4psxhO1h37Z3gUg/viewform)
 
+| Items                           | Values                                 |
+| ------------------------------- | -------------------------------------- |
+| Họ tên các thành viên           |                                        |
+| MSSV các thành viên             | 25410291                               |
+| Email các thành viên trong nhóm | 25410291-25410291@ms.uit.edu.vn        |
+| Công ty phân tích               |                                        |
+| Lĩnh vực hoạt động              |                                        |
+| Link Github                     | https://github.com/sam-uit/citd-IE203/ |
+| Lớp                             | IE203.F34.LT.CNTT                      |
+| Email giảng viên                | trunghlh@uit.edu.vn                    |
+
 ## Bài Giảng
 
 
