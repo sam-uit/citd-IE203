@@ -15,3 +15,9 @@
 ### Bài Tập Trên Lớp 01
 
 - [ ] [ex-01-01](exercises/ex-01-01.md)
+
+## Tools/Resources
+
+- https://plantuml.com/activity-diagram-beta
+- https://bpmn.io/toolkit/bpmn-js/
+- https://academy.camunda.com/path/bpmn-lp
