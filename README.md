@@ -1,4 +1,7 @@
-# IE203.F34.LT.CNTT - Hệ Thống Quản Trị Qui Trình Nghiệp Vụ - Hà Lê Hoài Trung
+# IE203.F34.LT.CNTT - Hệ Thống Quản Trị Qui Trình Nghiệp Vụ - Hà Lê Hoài Trungi
+
+- CBGD: ThS. Hà Lê Hoài Trung
+- Email: trunghlh@uit.edu.vn
 
 ## Bài Giảng
 
