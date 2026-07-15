@@ -80,3 +80,18 @@ Các tác nhân tham gia vào quy trình trên bao gồm 6 tác nhân như sau:
 4. **Supplier**: là một nhà cung cấp cụ thể, là một đối tác bên ngoài (external actor); chịu trách nhiệm cung cấp thiết bị, trả lời các câu hỏi/truy vấn về tình trạng, chi phí, v.v. liên quan đến thiết bị.
 5. **Financial Information System** - FIS: là một hệ thống thông tin, không phải là một cá nhân cụ thể; cung cấp khả năng lưu trữ thông tin, xuất đơn hàng (PO) dựa trên các thông tin mà Clerk nhập vào.
 6. **Financial Department** - FD: là một phòng ban, chịu trách nhiệm cuối của quy trình; nhận hóa đơn đã được xác nhận từ Clerk và thanh toán cho nhà cung cấp. Hoàn thành quy trình.
+
+Chữa bài:
+
+- Actors
+    - Human
+        - Clerk
+        - Site Engineer
+        - Work Engineer
+    - Organization
+        - BuildIT
+        - Supplier
+    - Physical Object
+        - (none)
+- Customer
+    - Site Engineer
