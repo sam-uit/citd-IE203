@@ -64,7 +64,14 @@ Phân loại:
 
 > Tác nhân nào được xem là Khách hàng trong trình trên?
 
+Tác nhân được xem như Khách hàng của quy trình trên là:
 
+- Student (Sinh Viên/Thí Sinh).
+
+Lý do:
+
+- Quy trình trên phát sinh từ nhu cầu trực tiếp của Student, mục đích nhằm đăng ký nhập học và bắt đầu bằng cách gửi mẫu đăng ký online.
+- Các tác nhân khác trong quy trình trên là các tác nhân nhận hoặc/và hoàn thành yêu cầu trên qua các bước cụ thể.
 
 ### What value does the process deliver to its customers?
 
