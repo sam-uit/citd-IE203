@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" pages="2">
+<mxfile host="app.diagrams.net" pages="3">
   <diagram name="b02-btvn02" id="DX43LjSLDLYmKmloM37B">
     <mxGraphModel dx="2910" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F0F0F0" math="0" shadow="0">
       <root>
         <mxCell id="-oJJuqfXpFBwCzvDRcou-0" />
-        <mxCell id="KQ0Ay-tL_2Lo8PBnZVrt-9" parent="-oJJuqfXpFBwCzvDRcou-0" style="locked=1;" value="bgcolor" />
-        <mxCell id="KQ0Ay-tL_2Lo8PBnZVrt-10" parent="KQ0Ay-tL_2Lo8PBnZVrt-9" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="530" y="410" as="geometry" />
-        </mxCell>
+        <mxCell id="KQ0Ay-tL_2Lo8PBnZVrt-9" parent="-oJJuqfXpFBwCzvDRcou-0" style="locked=0;" value="bgcolor" />
         <mxCell id="KQ0Ay-tL_2Lo8PBnZVrt-11" parent="KQ0Ay-tL_2Lo8PBnZVrt-9" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;fillColor=none;strokeColor=#d6b656;" value="" vertex="1">
           <mxGeometry height="450" width="960" x="-40" y="120" as="geometry" />
         </mxCell>
@@ -66,15 +63,7 @@
         <mxCell id="KQ0Ay-tL_2Lo8PBnZVrt-8" parent="j6yCUPC9ZjDtKobpSrTq-7" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Google Sans;strokeColor=light-dark(#ffffff, #ededed);fillColor=light-dark(#ededed, #ededed);fontSize=10;spacing=2;" value="&lt;p&gt;Strategic Management&lt;/p&gt;" vertex="1">
           <mxGeometry height="40" width="110" x="260" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="v9I0BbITt2AScpC39CYC-0" parent="j6yCUPC9ZjDtKobpSrTq-7" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="80" width="120" y="640" as="geometry" />
-        </mxCell>
-        <mxCell id="v9I0BbITt2AScpC39CYC-1" parent="j6yCUPC9ZjDtKobpSrTq-7" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="80" width="120" x="120" y="640" as="geometry" />
-        </mxCell>
-        <mxCell id="v9I0BbITt2AScpC39CYC-2" parent="j6yCUPC9ZjDtKobpSrTq-7" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="80" width="120" x="240" y="640" as="geometry" />
-        </mxCell>
+        <mxCell id="38XT65ljTGxXEWUA5Qy1-5" parent="-oJJuqfXpFBwCzvDRcou-0" value="Untitled Layer" />
       </root>
     </mxGraphModel>
   </diagram>
@@ -144,6 +133,65 @@
         </mxCell>
         <mxCell id="FZBCxVR6hc4wBITS528s-23" parent="FZBCxVR6hc4wBITS528s-9" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Google Sans;strokeColor=light-dark(#ffffff, #ededed);fillColor=light-dark(#ededed, #ededed);fontSize=10;spacing=2;" value="&lt;p&gt;Strategic Management&lt;/p&gt;" vertex="1">
           <mxGeometry height="40" width="110" x="260" y="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Z5sffj-0x_4yPhMD-aN4" name="core-value-chain">
+    <mxGraphModel dx="1741" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zt_3UyeLL6MmijXCAZOG-9" edge="1" parent="1" source="zt_3UyeLL6MmijXCAZOG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="zt_3UyeLL6MmijXCAZOG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zt_3UyeLL6MmijXCAZOG-1" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Google Sans;" value="Tiếp thị &amp;amp; Bán hàng&lt;br&gt;Marketing &amp;amp; Sales" vertex="1">
+          <mxGeometry height="80" width="160" x="360" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="zt_3UyeLL6MmijXCAZOG-10" edge="1" parent="1" source="zt_3UyeLL6MmijXCAZOG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="zt_3UyeLL6MmijXCAZOG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zt_3UyeLL6MmijXCAZOG-2" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Google Sans;" value="Tiếp nhận đơn hàng&lt;br&gt;Receive Order" vertex="1">
+          <mxGeometry height="80" width="160" x="520" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="zt_3UyeLL6MmijXCAZOG-3" edge="1" parent="1" source="zt_3UyeLL6MmijXCAZOG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;fillColor=#dae8fc;strokeColor=#6c8ebf;startArrow=oval;startFill=1;" target="zt_3UyeLL6MmijXCAZOG-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="360" />
+              <mxPoint x="860" y="420" />
+              <mxPoint x="340" y="420" />
+              <mxPoint x="340" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zt_3UyeLL6MmijXCAZOG-4" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Google Sans;" value="Xét duyệt đơn hàng&lt;br&gt;Approve Order" vertex="1">
+          <mxGeometry height="80" width="160" x="680" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="zt_3UyeLL6MmijXCAZOG-11" edge="1" parent="1" source="zt_3UyeLL6MmijXCAZOG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="zt_3UyeLL6MmijXCAZOG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zt_3UyeLL6MmijXCAZOG-5" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Google Sans;" value="Xử lý &amp;amp; Đóng gói&lt;br&gt;Fill Order" vertex="1">
+          <mxGeometry height="80" width="160" x="360" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="zt_3UyeLL6MmijXCAZOG-12" edge="1" parent="1" source="zt_3UyeLL6MmijXCAZOG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="zt_3UyeLL6MmijXCAZOG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zt_3UyeLL6MmijXCAZOG-6" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Google Sans;" value="Giao hàng&lt;br&gt;Deliver Order" vertex="1">
+          <mxGeometry height="80" width="160" x="520" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="zt_3UyeLL6MmijXCAZOG-15" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;fillColor=#dae8fc;strokeColor=#6c8ebf;startArrow=oval;startFill=1;" target="zt_3UyeLL6MmijXCAZOG-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="480" />
+              <mxPoint x="880" y="300" />
+              <mxPoint x="340" y="300" />
+              <mxPoint x="340" y="360" />
+            </Array>
+            <mxPoint x="840" y="480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zt_3UyeLL6MmijXCAZOG-7" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Google Sans;" value="Hỗ trợ &amp;amp; Bảo hành&lt;br&gt;Customer Service" vertex="1">
+          <mxGeometry height="80" width="160" x="680" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
