@@ -50,6 +50,8 @@ Có thể sắp xếp, phân bổ thành các nhóm quy trình chính yếu:
 
 ### Core Value Chain
 
+Đối với một doanh nghiệp thương mại điện tử bán đồ điện tử, chuỗi giá trị nằm trong phần cốt lõi của Core Processes là hành trình từ lúc tiếp cận khách hàng cho đến khi hoàn tất giao dịch và hậu mãi, đây là một quy trình liên kết trực tiếp với khách hàng bên ngoài để tạo ra giá trị, như ví dụ dưới đây.
+
 ```mermaid
 graph LR
 nodea("ABC") --> nodeb("DEF") --> nodec("GHI") --> noded("Outcome")
