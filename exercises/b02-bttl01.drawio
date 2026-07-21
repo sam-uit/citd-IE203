@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net">
-  <diagram name="Page-1" id="SOK6mcKUl_gRXVUdCPKL">
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="template" id="SOK6mcKUl_gRXVUdCPKL">
     <mxGraphModel dx="1741" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F0F0F0" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -11,6 +11,23 @@
           <mxGeometry height="80" width="560" x="160" y="483" as="geometry" />
         </mxCell>
         <mxCell id="Ld_krK5IUTc0g-FgCUqp-3" parent="1" style="triangle;whiteSpace=wrap;html=1;rotation=-90;fillColor=#dae8fc;strokeColor=light-dark(#ffffff, #5c79a3);rounded=1;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="560" width="190" x="345" y="-58" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="b02-bttl01" id="DX43LjSLDLYmKmloM37B">
+    <mxGraphModel dx="1741" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F0F0F0" math="0" shadow="0">
+      <root>
+        <mxCell id="-oJJuqfXpFBwCzvDRcou-0" />
+        <mxCell id="-oJJuqfXpFBwCzvDRcou-1" parent="-oJJuqfXpFBwCzvDRcou-0" />
+        <mxCell id="-oJJuqfXpFBwCzvDRcou-2" parent="-oJJuqfXpFBwCzvDRcou-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=light-dark(#ffffff, #d7817e);strokeWidth=2;arcSize=6;" value="" vertex="1">
+          <mxGeometry height="160" width="560" x="160" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="-oJJuqfXpFBwCzvDRcou-3" parent="-oJJuqfXpFBwCzvDRcou-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=light-dark(#ffffff, #446e2c);strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="80" width="560" x="160" y="483" as="geometry" />
+        </mxCell>
+        <mxCell id="-oJJuqfXpFBwCzvDRcou-4" parent="-oJJuqfXpFBwCzvDRcou-1" style="triangle;whiteSpace=wrap;html=1;rotation=-90;fillColor=#dae8fc;strokeColor=light-dark(#ffffff, #5c79a3);rounded=1;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="560" width="190" x="345" y="-58" as="geometry" />
         </mxCell>
       </root>
