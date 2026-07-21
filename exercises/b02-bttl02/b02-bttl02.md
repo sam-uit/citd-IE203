@@ -30,7 +30,17 @@ At the end of the committee meeting, the **chair** of the committee notifies the
 
 > Các tác nhân trong quy trình này gồm những ai?
 
+Các tác nhân của quy trình trên bao gồm:
 
+1. Student: Sinh viên/Thí sinh.
+2. University: Trường Đại Học.
+3. Information System: Hệ Thống Thông Tin.
+4. Staff Member: Các nhân sự.
+5. Admissions Office: Văn Phòng Xét Duyệt.
+6. Officer: Nhân Viên Hành Chính, thuộc Staff Member.
+7. Academic Recognition Agency
+8. Academic Committee: Ủy Ban Học Thuật.
+9. Chair of Academic Committee: Giám Đốc của Ủy Ban Học Thuật.
 
 ### Which actors can be considered as customers in this process?
 
