@@ -42,6 +42,24 @@ Các tác nhân của quy trình trên bao gồm:
 8. Academic Committee: Ủy Ban Học Thuật.
 9. Chair of Academic Committee: Giám Đốc của Ủy Ban Học Thuật.
 
+Phân loại:
+
+- Actors
+  - Human
+    - Student
+    - Staff Member
+    - Officer
+    - Chair of Academic Committee
+  - Organization
+    - University
+    - Admission Office
+    - Academic Recognition Agency
+    - Academent Committee
+  - Object & System
+    - Information System
+- Customer
+  - Student.
+
 ### Which actors can be considered as customers in this process?
 
 > Tác nhân nào được xem là Khách hàng trong trình trên?
