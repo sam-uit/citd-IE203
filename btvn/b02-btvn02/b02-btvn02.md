@@ -10,8 +10,7 @@ Specify a core value chain in this company.
 
 Processes or Processes Groups:
 
-
-
+![](assets/b02-btvn02-groups.png)
 
 Core Value Chain:
 ![](assets/core-values-chain.png)
