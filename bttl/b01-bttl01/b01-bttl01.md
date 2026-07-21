@@ -36,7 +36,7 @@ flowchart TD
     APD <--> DB
 ```
 
-![Bài Tập 01](ex-01-01.png)
+![Bài Tập 01](assets/b01-bttl01.png)
 
 ## Bài Làm
 
