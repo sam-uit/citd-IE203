@@ -24,5 +24,27 @@ At the end of the committee meeting, the **chair** of the committee notifies the
 >
 > Nộp: tên file là MSSV các thành viên trong nhóm cách nhau dấu "_".
 
+## Bài Làm
 
+### Who are the actors in this process?
+
+> Các tác nhân trong quy trình này gồm những ai?
+
+
+
+### Which actors can be considered as customers in this process?
+
+> Tác nhân nào được xem là Khách hàng trong trình trên?
+
+
+
+### What value does the process deliver to its customers?
+
+> Các giác trị nào được cung cấp tới Khách hàng bởi quy trình trên?
+
+
+
+### What are the possible outcomes of this process?
+
+> Các kết quả có thể có của quy trình trên?
 
