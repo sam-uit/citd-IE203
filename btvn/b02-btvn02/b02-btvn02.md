@@ -37,6 +37,8 @@ Tổng quan các bộ phận của một Công Ty Thương Mại Điện Tử, k
 
 ### Processes or Processes Groups
 
+Có thể sắp xếp, phân bổ thành các nhóm quy trình chính yếu:
+
 | **Management Processes** | **Core Processes**     | **Support Processes** |
 | ------------------------ | ---------------------- | --------------------- |
 | Strategic Management     | Direct Procuremen      | Human Resources       |
