@@ -11,20 +11,15 @@
 
 ### Các Bộ Phận
 
-1. Additional services mgt
-2. Admission
-3. Course Management
-4. HR
-5. Indirect procurement
-6. IP Management
-7. IT
-8. Language training
-9. Market management
-10. Marketing
-11. Sport services
-12. Strategic Management
-13. Teaching award courses
-14. Teaching professional courses
+| **STT** | **Tên**                     | **STT** | **Tên**                           |
+| --: | ----------------------- | --: | ----------------------------- |
+|   1 | Additional services mgt |   8 | Language training             |
+|   2 | Admission               |   9 | Market management             |
+|   3 | Course Management       |  10 | Marketing                     |
+|   4 | HR                      |  11 | Sport services                |
+|   5 | Indirect procurement    |  12 | Strategic Management          |
+|   6 | IP Management           |  13 | Teaching award courses        |
+|   7 | IT                      |  14 | Teaching professional courses |
 
 ### Phân Loại
 
