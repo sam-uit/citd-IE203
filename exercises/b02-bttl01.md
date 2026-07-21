@@ -9,5 +9,20 @@
 
 ## Bài Làm
 
+### Các Bộ Phận
 
+- Additional services mgt
+- Admission
+- Course Management
+- HR
+- Indirect procurement
+- IP Management
+- IT
+- Language training
+- Market management
+- Marketing
+- Sport services
+- Strategic Management
+- Teaching award courses
+- Teaching professional courses
 
