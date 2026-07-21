@@ -11,44 +11,44 @@
 
 ### Các Bộ Phận
 
-- Additional services mgt
-- Admission
-- Course Management
-- HR
-- Indirect procurement
-- IP Management
-- IT
-- Language training
-- Market management
-- Marketing
-- Sport services
-- Strategic Management
-- Teaching award courses
-- Teaching professional courses
+1. Additional services mgt
+2. Admission
+3. Course Management
+4. HR
+5. Indirect procurement
+6. IP Management
+7. IT
+8. Language training
+9. Market management
+10. Marketing
+11. Sport services
+12. Strategic Management
+13. Teaching award courses
+14. Teaching professional courses
 
 ### Phân Loại
 
 #### Management Processes
 
-- Strategic Management
-- Course Management
-- IP Management
-- Additional services mgt
-- Market management
+1. Strategic Management
+2. Course Management
+3. IP Management
+4. Additional services mgt
+5. Market management
 
 #### Core Processes
 
-- Admission
-- Marketing
-- Teaching award courses
-- Language training
-- Teaching professional courses
-- Sport services
+1. Admission
+2. Marketing
+3. Teaching award courses
+4. Language training
+5. Teaching professional courses
+6. Sport services
 
 #### Support Processes
 
-- Indirect procurement
-- IT
-- HR
+1. Indirect procurement
+2. IT
+3. HR
 
 
