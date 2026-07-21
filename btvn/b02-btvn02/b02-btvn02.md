@@ -54,5 +54,12 @@ Có thể sắp xếp, phân bổ thành các nhóm quy trình chính yếu:
 
 ```mermaid
 graph LR
-nodea("ABC") --> nodeb("DEF") --> nodec("GHI") --> noded("Outcome")
+  nodea("Tiếp thị & Bán hàng<br>Marketing & Sales")
+  nodeb("Tiếp nhận đơn hàng<br>Receive Order")
+  nodec("Xác duyệt đơn hàng<br>Approve Order")
+  noded("Xử lý & Đóng gói<br>Fill Order")
+  nodee("Giao hàng<br>Deliver Order")
+  nodef("Hỗ trợ & Bảo hành<br>Customer Service")
+
+nodea --> nodeb --> nodec --> noded --> nodee --> nodef
 ```
