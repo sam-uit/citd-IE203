@@ -47,5 +47,8 @@
 
 #### Support Processes
 
+- Indirect procurement
+- IT
+- HR
 
 
