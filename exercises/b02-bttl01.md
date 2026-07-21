@@ -51,4 +51,6 @@
 2. IT
 3. HR
 
+## Trực Quan
+
 
