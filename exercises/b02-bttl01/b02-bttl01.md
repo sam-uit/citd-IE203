@@ -53,4 +53,4 @@
 
 ## Trực Quan
 
-
+![IE203 - Buổi 02 - Bài Tập Tại Lớp 01 - Sơ Đồ](assets/b02-bttl01-b02-bttl01.png)
