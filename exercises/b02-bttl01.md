@@ -38,6 +38,13 @@
 
 #### Core Processes
 
+- Admission
+- Marketing
+- Teaching award courses
+- Language training
+- Teaching professional courses
+- Sport services
+
 #### Support Processes
 
 
