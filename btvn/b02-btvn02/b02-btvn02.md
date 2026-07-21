@@ -8,17 +8,6 @@ Enumerate at least 10 processes or process groups in this company, distributed m
 
 Specify a core value chain in this company.
 
-Processes or Processes Groups:
-
-- Management Processes
-- Core Processes
-- Support Processes
-
-![](assets/b02-btvn02-groups.png)
-
-Core Values Chain:
-![](assets/core-values-chain.png)
-
 ## Bài Làm
 
 ### Danh Sách Các Bộ Phận
