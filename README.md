@@ -26,7 +26,7 @@ Quan Trọng:
 
 |  no | chap                              | date     | topics | notes                                                                                                  |
 | --: | --------------------------------- | -------- | ------ | ------------------------------------------------------------------------------------------------------ |
-|   1 | [ch01](lectures/IE203-chap01.pdf) | 20260708 |        | [01_Practice1-1-1](practices/01_Practice1-1-1/01_Practice1-1-1.md) + [ex-01-01](exercises/ex-01-01.md) |
+|   1 | [ch01](lectures/IE203-chap01.pdf) | 20260708 |        | [01_Practice1-1-1](btvn/01_Practice1-1-1/01_Practice1-1-1.md) + [ex-01-01](bttl/ex-01-01.md) |
 |   2 | [ch02](lectures/IE203-chap02.pdf) |          |        |                                                                                                        |
 |   3 | [ch03](lectures/IE203-chap03.pdf) |          |        |                                                                                                        |
 |   4 | [ch04](lectures/IE203-chap04.pdf) |          |        |                                                                                                        |
@@ -39,11 +39,11 @@ Quan Trọng:
 
 ### Bài Tập 01
 
-- [ ] [01_Practice1-1-1](practices/01_Practice1-1-1/01_Practice1-1-1.md)
+- [ ] [01_Practice1-1-1](btvn/01_Practice1-1-1/01_Practice1-1-1.md)
 
 ### Bài Tập Trên Lớp 01
 
-- [ ] [ex-01-01](exercises/ex-01-01.md)
+- [ ] [ex-01-01](bttl/ex-01-01.md)
 
 ## Tools/Resources
 
