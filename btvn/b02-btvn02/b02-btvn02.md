@@ -21,34 +21,19 @@ Core Values Chain:
 
 ## Bài Làm
 
-Tổng quan các bộ phận của một Công Ty Thương Mại Điện Tử, kinh doanh hàng điện tử, điện lạnh bao gồm:
-
-1. Strategic Management: Quản lý chiến lược kinh doanh
-2. Risk Management: Quản trị rủi ro
-3. Performance Management: Đánh giá & Quản trị hiệu suất 
-4. Vendor Management: Quản lý đối tác & Nhà cung cấp
-5. Human Resources: Quản trị nhân sự
-6. Direct Procurement: Tìm kiếm nguồn hàng & Mua sắm
-7. Inventory & Warehouse Management: Quản lý kho bãi
-8. Digital Marketing: Tiếp thị & Quảng cáo
-9. Order Processing: Xử lý đơn hàng
-10. Fulfillment & Delivery: Đóng gói & Vận chuyển
-11. Customer Service: Chăm sóc khách hàng & Bảo hành
-12. Finance & Accounting: Quản lý tài chính & Kế toán
-13. IT Operations: Vận hành & Bảo trì hệ thống IT
-14. Indirect Procurement: Mua sắm gián tiếp
-
 ### Danh Sách Các Bộ Phận
 
-| **STT** | **Tên** | **STT** | **Tên** |
-| ------: | ------- | ------: | ------- |
-|       1 |         |       8 |         |
-|       2 |         |       9 |         |
-|       3 |         |      10 |         |
-|       4 |         |      11 |         |
-|       5 |         |      12 |         |
-|       6 |         |      13 |         |
-|       7 |         |      14 |         |
+Tổng quan các bộ phận của một Công Ty Thương Mại Điện Tử, kinh doanh hàng điện tử, điện lạnh bao gồm:
+
+| **STT** | **Tên**                                               | **STT** | **Tên**                                           |
+| ------: | ----------------------------------------------------- | ------: | ------------------------------------------------- |
+|       1 | Strategic Management: Quản lý chiến lược kinh doanh   |       8 | Digital Marketing: Tiếp thị & Quảng cáo           |
+|       2 | Risk Management: Quản trị rủi ro                      |       9 | Order Processing: Xử lý đơn hàng                  |
+|       3 | Performance Management: Đánh giá & Quản trị hiệu suất |      10 | Fulfillment & Delivery: Đóng gói & Vận chuyển     |
+|       4 | Vendor Management: Quản lý đối tác & Nhà cung cấp     |      11 | Customer Service: Chăm sóc khách hàng & Bảo hành  |
+|       5 | Human Resources: Quản trị nhân sự                     |      12 | Finance & Accounting: Quản lý tài chính & Kế toán |
+|       6 | Direct Procurement: Tìm kiếm nguồn hàng & Mua sắm     |      13 | IT Operations: Vận hành & Bảo trì hệ thống IT     |
+|       7 | Inventory & Warehouse Management: Quản lý kho bãi     |      14 | Indirect Procurement: Mua sắm gián tiếp           |
 
 ### Processes or Processes Groups
 
