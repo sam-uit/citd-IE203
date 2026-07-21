@@ -77,7 +77,9 @@ Lý do:
 
 > Các giác trị nào được cung cấp tới Khách hàng bởi quy trình trên?
 
+Giá trị của quy trình đem lại cho Khách hàng, cụ thể ở đây là Student có thể để cập như:
 
+- Student được xét duyệt nhập học sau khi quy trình kiểm tra các thông tin, giấy tờ đều hợp lệ, và thủ tục cuối cùng là Admission Office gửi thư xác nhận tới Student để xác nhận kết quả.
 
 ### What are the possible outcomes of this process?
 
