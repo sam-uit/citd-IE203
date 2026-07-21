@@ -61,5 +61,7 @@ graph LR
   nodee("Giao hàng<br>Deliver Order")
   nodef("Hỗ trợ & Bảo hành<br>Customer Service")
 
-nodea --> nodeb --> nodec --> noded --> nodee --> nodef
+nodea --> nodeb --> nodec --> noded --> nodee --> nodef --> nodea
 ```
+
+![b02-btvn02-core-value-chain](assets/b02-btvn02-core-value-chain.png)
