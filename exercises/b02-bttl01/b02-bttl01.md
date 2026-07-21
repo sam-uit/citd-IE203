@@ -9,7 +9,7 @@
 
 ## Bài Làm
 
-### Các Bộ Phận
+### Danh Sách Các Bộ Phận
 
 | **STT** | **Tên**                     | **STT** | **Tên**                           |
 | --: | ----------------------- | --: | ----------------------------- |
@@ -21,31 +21,17 @@
 |   6 | IP Management           |  13 | Teaching award courses        |
 |   7 | IT                      |  14 | Teaching professional courses |
 
-### Phân Loại
+### Phân Loại Theo Quy Trình
 
-#### Management Processes
+| **Management Processes** | **Core Processes**            | **Support Processes** |
+| ------------------------ | ----------------------------- | --------------------- |
+| Additional services mgt  | Admission                     | HR                    |
+| Course Management        | Language training             | Indirect procurement  |
+| IP Management            | Marketing                     | IT                    |
+| Market management        | Sport services                |                       |
+| Strategic Management     | Teaching award courses        |                       |
+|                          | Teaching professional courses |                       |
 
-1. Strategic Management
-2. Course Management
-3. IP Management
-4. Additional services mgt
-5. Market management
-
-#### Core Processes
-
-1. Admission
-2. Marketing
-3. Teaching award courses
-4. Language training
-5. Teaching professional courses
-6. Sport services
-
-#### Support Processes
-
-1. Indirect procurement
-2. IT
-3. HR
-
-## Trực Quan
+### Trực Quan Hóa Quy Trình và Bộ Phận
 
 ![IE203 - Buổi 02 - Bài Tập Tại Lớp 01 - Sơ Đồ](assets/b02-bttl01-b02-bttl01.png)
