@@ -37,14 +37,14 @@ Tổng quan các bộ phận của một Công Ty Thương Mại Điện Tử, k
 
 ### Processes or Processes Groups
 
-| **Management Processes** | **Core Processes** | **Support Processes** |
-| ------------------------ | ------------------ | --------------------- |
-|                          |                    |                       |
-|                          |                    |                       |
-|                          |                    |                       |
-|                          |                    |                       |
-|                          |                    |                       |
-|                          |                    |                       |
+| **Management Processes** | **Core Processes**     | **Support Processes** |
+| ------------------------ | ---------------------- | --------------------- |
+| Strategic Management     | Direct Procuremen      | Human Resources       |
+| Risk Management          | Inventory & Warehouse  | Finance & Accounting  |
+| Vendor Management        | Digital Marketing      | IT Operations         |
+|                          | Order Processing       | Indirect Procurement  |
+|                          | Fulfillment & Delivery |                       |
+|                          | Customer Service       |                       |
 
 ### Core Value Chain
 
