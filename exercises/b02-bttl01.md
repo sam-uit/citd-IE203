@@ -30,6 +30,12 @@
 
 #### Management Processes
 
+- Strategic Management
+- Course Management
+- IP Management
+- Additional services mgt
+- Market management
+
 #### Core Processes
 
 #### Support Processes
