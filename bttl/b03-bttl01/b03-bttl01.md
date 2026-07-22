@@ -18,4 +18,9 @@ Is the process model in Figure of good pragmatic quality? If not, how can it be
 
 ## Bài Làm
 
-![](assets/bttl01-01.svg)
+Trước:
+
+Sau:
+
+![](assets/bttl01-final.svg)
+
