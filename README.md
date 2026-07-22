@@ -55,3 +55,4 @@ Quan Trọng:
 - https://www.bpmn-sketch-miner.ai/
 - https://kroki.io/
 - https://academy.camunda.com/path/bpmn-lp
+- https://ba-copilot.com/tools/bpmn-to-png-converter
