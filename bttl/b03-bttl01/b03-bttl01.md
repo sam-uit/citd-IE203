@@ -17,3 +17,5 @@ A process model for fulfilling special orders. Consider the model in Figure wit
 Is the process model in Figure of good pragmatic quality? If not, how can it be improved?
 
 ## Bài Làm
+
+![](assets/bttl01-01.svg)
