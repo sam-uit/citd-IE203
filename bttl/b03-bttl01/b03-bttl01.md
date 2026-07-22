@@ -18,9 +18,12 @@ Is the process model in Figure of good pragmatic quality? If not, how can it be
 
 ## Bài Làm
 
-Trước:
+Sửa chữa:
 
-Sau:
+- Inclusive Gateway được sửa đổi thành AND-join (Parallel Gateway).
+- File bpmn: [bttl01-final](diagrams/bttl01-final.bpmn)
 
-![](assets/bttl01-final.svg)
+![](diagrams/bttl01-final.png)
+
+
 
