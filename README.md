@@ -56,3 +56,4 @@ Quan Trọng:
 - https://kroki.io/
 - https://academy.camunda.com/path/bpmn-lp
 - https://ba-copilot.com/tools/bpmn-to-png-converter
+- https://github.com/bpmn-io/bpmn-to-image
